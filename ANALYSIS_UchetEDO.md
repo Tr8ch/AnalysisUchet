@@ -25,7 +25,7 @@
 				- XML файл попдипсей 	<UUID.xml>
 - _Пример:_
 
-	![PdfFiles](filesUchetEdo.png)
+	![PdfFiles](https://github.com/Tr8ch/AnalysisUchet/blob/main/images/filesUchetEdo.png)
 
 		Если другой формат:
 			Архив содержит 3 файла:
@@ -34,7 +34,7 @@
 				- XML файл подписей		<UUID.xml>
 - _Пример:_
 
-	![NonPdfFiles](NonPdfFiles.png)
+	![NonPdfFiles](https://github.com/Tr8ch/AnalysisUchet/blob/main/images/NonPdfFiles.png)
 			
  - **Что конкретно подписывается? - Хеш, бинарные данные, UUID документ и т.д.**
 		
